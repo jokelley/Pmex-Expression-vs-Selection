@@ -1,2 +1,2 @@
 # Pmex-Expression-vs-Selection
-This is the README
+Code for analyses from Brown et al. "Concordant changes in gene expression and nucleotides underlie independent adaptation to hydrogen-sulfide-rich environments" 
